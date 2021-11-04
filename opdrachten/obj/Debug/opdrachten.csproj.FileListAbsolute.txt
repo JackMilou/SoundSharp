@@ -1,0 +1,6 @@
+C:\development\c#\HalloWereld\SoundSharp\opdrachten\bin\Debug\opdrachten.exe
+C:\development\c#\HalloWereld\SoundSharp\opdrachten\bin\Debug\opdrachten.pdb
+C:\development\c#\HalloWereld\SoundSharp\opdrachten\obj\Debug\opdrachten.csprojAssemblyReference.cache
+C:\development\c#\HalloWereld\SoundSharp\opdrachten\obj\Debug\opdrachten.csproj.CoreCompileInputs.cache
+C:\development\c#\HalloWereld\SoundSharp\opdrachten\obj\Debug\opdrachten.exe
+C:\development\c#\HalloWereld\SoundSharp\opdrachten\obj\Debug\opdrachten.pdb

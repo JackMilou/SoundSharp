@@ -1,0 +1,6 @@
+C:\development\c#\HalloWereld\SoundSharp\opdrachen\bin\Debug\opdrachen.exe
+C:\development\c#\HalloWereld\SoundSharp\opdrachen\bin\Debug\opdrachen.pdb
+C:\development\c#\HalloWereld\SoundSharp\opdrachen\obj\Debug\opdrachen.csprojAssemblyReference.cache
+C:\development\c#\HalloWereld\SoundSharp\opdrachen\obj\Debug\opdrachen.csproj.CoreCompileInputs.cache
+C:\development\c#\HalloWereld\SoundSharp\opdrachen\obj\Debug\opdrachen.exe
+C:\development\c#\HalloWereld\SoundSharp\opdrachen\obj\Debug\opdrachen.pdb

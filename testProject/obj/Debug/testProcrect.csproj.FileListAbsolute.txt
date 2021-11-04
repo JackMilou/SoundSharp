@@ -1,0 +1,6 @@
+C:\development\c#\HalloWereld\SoundSharp\testProcrect\bin\Debug\testProcrect.exe
+C:\development\c#\HalloWereld\SoundSharp\testProcrect\bin\Debug\testProcrect.pdb
+C:\development\c#\HalloWereld\SoundSharp\testProcrect\obj\Debug\testProcrect.csprojAssemblyReference.cache
+C:\development\c#\HalloWereld\SoundSharp\testProcrect\obj\Debug\testProcrect.csproj.CoreCompileInputs.cache
+C:\development\c#\HalloWereld\SoundSharp\testProcrect\obj\Debug\testProcrect.exe
+C:\development\c#\HalloWereld\SoundSharp\testProcrect\obj\Debug\testProcrect.pdb

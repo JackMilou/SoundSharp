@@ -1,0 +1,6 @@
+C:\development\c#\HalloWereld\SoundSharp\opdracht1t3\bin\Debug\opdracht1t3.exe
+C:\development\c#\HalloWereld\SoundSharp\opdracht1t3\bin\Debug\opdracht1t3.pdb
+C:\development\c#\HalloWereld\SoundSharp\opdracht1t3\obj\Debug\opdracht1t3.csprojAssemblyReference.cache
+C:\development\c#\HalloWereld\SoundSharp\opdracht1t3\obj\Debug\opdracht1t3.csproj.CoreCompileInputs.cache
+C:\development\c#\HalloWereld\SoundSharp\opdracht1t3\obj\Debug\opdracht1t3.exe
+C:\development\c#\HalloWereld\SoundSharp\opdracht1t3\obj\Debug\opdracht1t3.pdb

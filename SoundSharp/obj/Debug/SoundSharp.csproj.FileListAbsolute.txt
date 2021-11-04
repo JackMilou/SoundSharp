@@ -1,0 +1,6 @@
+C:\development\c#\HalloWereld\SoundSharp\SoundSharp\bin\Debug\SoundSharp.exe
+C:\development\c#\HalloWereld\SoundSharp\SoundSharp\bin\Debug\SoundSharp.pdb
+C:\development\c#\HalloWereld\SoundSharp\SoundSharp\obj\Debug\SoundSharp.csprojAssemblyReference.cache
+C:\development\c#\HalloWereld\SoundSharp\SoundSharp\obj\Debug\SoundSharp.csproj.CoreCompileInputs.cache
+C:\development\c#\HalloWereld\SoundSharp\SoundSharp\obj\Debug\SoundSharp.exe
+C:\development\c#\HalloWereld\SoundSharp\SoundSharp\obj\Debug\SoundSharp.pdb

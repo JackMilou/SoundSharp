@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundSharp", "SoundSharp\SoundSharp.csproj", "{B9FEF1DD-C09C-4339-948E-3756C7E3DF81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opdrachten", "opdrachten\opdrachten.csproj", "{19FE624F-14A2-4F17-AF73-1AE516BEE0A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testProject", "testProject\testProject.csproj", "{8F91D975-3E47-48B7-80FF-0E53D086C777}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9FEF1DD-C09C-4339-948E-3756C7E3DF81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9FEF1DD-C09C-4339-948E-3756C7E3DF81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9FEF1DD-C09C-4339-948E-3756C7E3DF81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9FEF1DD-C09C-4339-948E-3756C7E3DF81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19FE624F-14A2-4F17-AF73-1AE516BEE0A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19FE624F-14A2-4F17-AF73-1AE516BEE0A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19FE624F-14A2-4F17-AF73-1AE516BEE0A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19FE624F-14A2-4F17-AF73-1AE516BEE0A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F91D975-3E47-48B7-80FF-0E53D086C777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F91D975-3E47-48B7-80FF-0E53D086C777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F91D975-3E47-48B7-80FF-0E53D086C777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F91D975-3E47-48B7-80FF-0E53D086C777}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
